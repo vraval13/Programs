@@ -1,9 +1,9 @@
-#include <Stdio.h>
+#include<stdio.h>
 
 int main()
 {
-    printf("\nHello world");
-    printf("\nand welcome in Programming");
-    
+    printf("\nHello World");
+    printf("\nand welcome in programming");
+
     return 0;
 }
